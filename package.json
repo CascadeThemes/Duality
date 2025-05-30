@@ -1,6 +1,9 @@
 {
-    "name": "sample-obsidian-theme",
+    "name": "Duality",
+	"author": "CascadeThemes"
+	"authorUrl": "https://github.com/CascadeThemes"
     "version": "1.0.0",
+	"minAppVersion": "1.4.0"
 	"scripts": {
 		"version": "node version-bump.mjs && git add manifest.json versions.json"
 	}
