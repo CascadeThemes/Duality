@@ -24,6 +24,8 @@ Bathe your notes in a soft, celestial palette of blues and golds, evoking the tr
 * Links and Tags: Vibrant, context-sensitive colors (celestial blue in light mode, fiery orange in dark) make navigation intuitive, while hover effects add a touch of interactivity to your writing process.
 * Tables and Checklists: Clean, alternating row backgrounds and intuitive checkbox designs keep your structured content organized and visually appealing.
 
+![Duality Theme](https://github.com/CascadeThemes/Duality/blob/master/assets/holy1.png?raw=true) ![Duality Theme](https://github.com/CascadeThemes/Duality/blob/master/assets/holy2.png?raw=true)
+
 
 # Installation
 Just search and download from the Obsidian community themes in the app. 
