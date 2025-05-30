@@ -5,12 +5,18 @@ Obsidian Theme
 Its dual light and dark modes cater to the ebb and flow of your creative process, allowing you to shift seamlessly between the luminous inspiration of a divine realm and the raw intensity of a gothic underworld.
 
 
+![Duality Theme](https://github.com/CascadeThemes/Duality/blob/master/assets/duality1.png?raw=true)
+
+
 ## Dark Theme
 Plunge into the depths of a dungeon-inspired (Diablo II) dark theme, where fiery orange-red accents and deep gray-blacks conjure the atmosphere of an ancient, candlelit scriptorium. Ideal for crafting intense narratives or exploring the shadows of your imagination, this mode offers stark contrast and a medieval edge. Stark contrasts, fiery accents, and medieval-inspired borders transform your Obsidian vault into a fortress of creativity.
+
+![Duality Theme](https://github.com/CascadeThemes/Duality/blob/master/assets/holymenu2.png?raw=true)
 
 ## Light Theme
 Bathe your notes in a soft, celestial palette of blues and golds, evoking the tranquility of a divine library. The light theme is perfect for writers seeking clarity and inspiration, with a warm golden accent that feels like sunlight on parchment. Subtle gradients and ethereal hues create a serene environment that encourages focus and flow. Soft gradients, rounded corners, and a golden divine glow in the titlebar and canvas create a workspace that feels like writing in a heavenly scriptorium.
 
+![Duality Theme](https://github.com/CascadeThemes/Duality/blob/master/assets/holymenu1.png?raw=true)
 
 ## Features
 * Headings: Distinct colors for each heading level (e.g., royal purple for H1 in light mode, fiery orange in dark mode) help you organize your thoughts with visual hierarchy, making your outlines as compelling as your prose.
